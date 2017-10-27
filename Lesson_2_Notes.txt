@@ -1,0 +1,2 @@
+What happens when you initialize a repository?
+When I initialize a git repository, it groups files into a single repository, which makes it easier to upload them to gitHub.

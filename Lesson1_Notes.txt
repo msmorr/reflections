@@ -1,0 +1,21 @@
+Using diff to find Bugs:
+It's really challenging to find bugs manually, so diff is valuable in identifying both what changed
+and what stayed the same after editing code.
+
+Using history for efficiency:
+Having easy access to the entire history of the file can help me track changes and go back to previous versions
+without having to re-do code.
+
+What do you think are the pros and cons of manually choosing when to create a commit?
+We have more control over when to commit to the history of the file with manual commits.
+We can make the commits as large or as small as needed.
+
+Why do you think some version control systems allow saving 
+
+How can I use the commands git log and git diff to view the history of a file?
+- You can use git log to check the commits made to a file
+- You can use git diff to analyze a commit to see what changed in that particular commit.
+
+With Git, you can explore and experiment without fear of breaking the whole project. If it introduces a bug, you can always go back to a previous version.
+
+I want to use Git to make sure I'm as efficient as possible as I'm learning to program.
