@@ -1,3 +1,6 @@
 When would you want a remote repository rather than keeping all your work local?
 - if you want to share your work with others
 - if you are collaborating with others
+
+Why might you want to always pull changes manually?
+- If someone made changes and pushed them to GitHub, they would be automatically implemented onto your local version without your knowledge. That might not be something you like.
