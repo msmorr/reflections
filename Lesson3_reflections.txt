@@ -6,3 +6,6 @@ Describe the differences between forks, clones, and branches. When would you use
 - Use a fork to copy a repository from another gitHub user, but before you're sure you want to commit their changes
 - Use a branch on your local machine to represent a new feature or experimentation that you want to work on separately from your main code.
 - Clone when you want to make an exact copy of your code
+
+Why might you want to always pull changes manually?
+- If someone made changes and pushed them to GitHub, they would be automatically implemented onto your local version without your knowledge. That might not be something you like.
