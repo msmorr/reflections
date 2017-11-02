@@ -1,2 +1,15 @@
 What happens when you initialize a repository?
 When I initialize a git repository, it groups files into a single repository, which makes it easier to upload them to gitHub.
+
+What value does the staging area have and how is it different from the working directory?
+The staging area allows you to organize files and changes before actually making them. It doesn't actually make any changes yet.
+
+How can you use the staging area to make sure you have one commit per logical change?
+You can do this by only changing one file at a time before making a commit
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+- If you're changing something that could mess up other areas of the code, or experimenting with a new feature, a new branch will allow
+you to make a lot of changes without fear of messing up parts of your code that are functioning.\
+
+How do diagrams help you visualize the branch structure?
+Diagrams help us understand which commits are accessible by which branches, and which are not.
