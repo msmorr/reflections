@@ -1,0 +1,3 @@
+When would you want a remote repository rather than keeping all your work local?
+- if you want to share your work with others
+- if you are collaborating with others
