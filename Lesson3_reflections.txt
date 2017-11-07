@@ -12,3 +12,9 @@ Why might you want to always pull changes manually?
 
 What is the benefit of having a copy of the last known state of the remote stored locally?
 - Having the remote stored locally serves as a backup if someone else pushes changes to the remote that you want to undo.
+
+How would you collaborate without using Git or GitHub? What would be easier, what would be harder?
+- I would probably just save multiple versions of a file and date them. It would be easier if there were only 2 or 3 people working on the file, and there would be less version management work. However, it'd be really challenging to keep track of all the changes and to compare conflicting changes.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+- You want to make changes in a separate branch when those changes have the potential to break the master. That will avoid frustration later on.
