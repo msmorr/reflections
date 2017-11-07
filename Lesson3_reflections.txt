@@ -9,3 +9,6 @@ Describe the differences between forks, clones, and branches. When would you use
 
 Why might you want to always pull changes manually?
 - If someone made changes and pushed them to GitHub, they would be automatically implemented onto your local version without your knowledge. That might not be something you like.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+- Having the remote stored locally serves as a backup if someone else pushes changes to the remote that you want to undo.
